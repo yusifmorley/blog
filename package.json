@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "name": "vitepressblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^1.1.0"
+  },
+  "dependencies": {
+    "vite-plugin-vitepress-auto-sidebar": "^1.6.4"
+  }
+}
