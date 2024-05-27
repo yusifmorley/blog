@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/base/',
+  base: '/blog/',
   vite: {
     plugins: [
       AutoSidebar({
