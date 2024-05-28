@@ -16,15 +16,15 @@ hero:
 features:
   - icon: 🛠️
     title: 安卓主题变量参数
-    link: /theme/theme/all.md
+    link: /一般介绍/一般介绍/all.md
     
   - icon: 🔥
     title: 安卓主题常用参数表
-    link: /theme/theme/telegram-android-attheme.md
+    link: /theme/一般介绍/telegram-android-attheme.md
     
   - icon: 🌊
     title: 桌面主题常用参数表
-    link: /theme/d/telegram-desktop-tdesktop-theme.md
+    link: /一般介绍/安卓主题/telegram-desktop-tdesktop-一般介绍.md
 ---
 ---
 

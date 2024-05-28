@@ -9,3 +9,5 @@ gen
 node_modules/**
 /node_modules/
 /.vitepress/cache/
+/.vitepress/dist/
+
