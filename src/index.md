@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 🛠️
     title: 安卓主题变量参数
-    link: /一般介绍/一般介绍/all.md
+    link: /theme/一般介绍/all.md
     
   - icon: 🔥
     title: 安卓主题常用参数表
@@ -24,7 +24,7 @@ features:
     
   - icon: 🌊
     title: 桌面主题常用参数表
-    link: /一般介绍/安卓主题/telegram-desktop-tdesktop-一般介绍.md
+    link: /theme/桌面主题/telegram-desktop-tdesktop-theme.md
 ---
 ---
 
