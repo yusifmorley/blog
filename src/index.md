@@ -27,7 +27,7 @@ features:
     
   - icon: 🌊
     title: 桌面主题常用参数表
-    link: /杂谈/los/主题常识.md
+    link: /theme/桌面主题/telegram-desktop-tdesktop-theme.md
 ---
 ---
 
