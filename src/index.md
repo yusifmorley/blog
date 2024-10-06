@@ -9,22 +9,25 @@ hero:
   actions:
     - theme: brand
       text: 安卓主题
-      link: /markdown-examples
+      link: https://yusifmorley.com/#/desk/desk-attheme
     - theme: brand
       text: 桌面主题
-      link: /api-examples
+      link: https://yusifmorley.com/#/desk/desktop
+    - theme: brand
+      text: 相关群组
+      link: /group.md
 features:
   - icon: 🛠️
     title: 安卓主题变量参数
-    link: /theme/一般介绍/all.md
+    link: /theme/pol/all.md
     
   - icon: 🔥
     title: 安卓主题常用参数表
-    link: /theme/一般介绍/telegram-android-attheme.md
+    link: /theme/los/主题常识.md
     
   - icon: 🌊
     title: 桌面主题常用参数表
-    link: /theme/桌面主题/telegram-desktop-tdesktop-theme.md
+    link: /杂谈/los/主题常识.md
 ---
 ---
 

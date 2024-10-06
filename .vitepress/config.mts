@@ -23,14 +23,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: 'blog', link: '/theme/一般介绍/all.md' }
+      { text: 'blog', link: '/theme/los/all.md' }
     ],
 
     // sidebar: [
     //   {
     //     text: '主题参数介绍',
     //     items: [
-    //       { text: '安卓', link: '/一般介绍/all.md' },
+    //       { text: '安卓', link: '/los/all.md' },
     //       { text: '桌面', link: '/api-examples' }
     //     ]
     //   }
