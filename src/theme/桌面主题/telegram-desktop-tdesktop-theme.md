@@ -1,4 +1,5 @@
-# 桌面主题常用参数表
+# 桌面主题常用参数表（原英文）
+
 | Key                          | Description                                                  |
 | :--------------------------- | :----------------------------------------------------------- |
 | _Generic_                    | _any colours can be declared as variables using the same syntax_ (`name: #hexa; //optional comment`) _these can only be used by assigning them in the text file_ |
