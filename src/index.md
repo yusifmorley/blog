@@ -18,8 +18,8 @@ hero:
       link: /group.md
 features:
   - icon: 🛠️
-    title: 安卓主题变量参数
-    link: /theme/pol/all.md
+    title: telegram主题变量参数介绍
+    link: /theme/一般介绍/主题常识.md
     
   - icon: 🔥
     title: 安卓主题常用参数表
